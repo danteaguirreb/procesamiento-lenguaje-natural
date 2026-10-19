@@ -1,0 +1,17 @@
+# Input data and generated artifacts
+data/raw/*.xlsx
+data/processed/
+outputs/
+outputs_pln_ipn/
+models/
+*.npy
+*.safetensors
+*.csv
+*.html
+*.pdf
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
